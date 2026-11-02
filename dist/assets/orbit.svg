@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="460" viewBox="0 0 560 460" fill="none">
+<defs>
+<linearGradient id="spectrum" x1="110" y1="260" x2="421" y2="149" gradientUnits="userSpaceOnUse"><stop stop-color="#ffb931"/><stop offset=".29" stop-color="#fff5d9"/><stop offset=".48" stop-color="#fff"/><stop offset=".69" stop-color="#e1eaff"/><stop offset="1" stop-color="#2e73fc"/></linearGradient>
+<linearGradient id="white" x1="180" y1="85" x2="390" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#fafafa"/><stop offset=".6" stop-color="#b8b8b8"/><stop offset="1" stop-color="#454545"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#c8d9ff" stop-opacity=".035"/><stop offset="1" stop-color="#0a0a0a" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<ellipse cx="291" cy="225" rx="240" ry="192" fill="url(#halo)"/>
+<g transform="translate(275 230) rotate(-34) skewX(9) scale(1 .78)">
+<g stroke="url(#spectrum)" stroke-width="3" filter="url(#soft)" opacity=".35" transform="translate(-275 -230)"><rect x="127" y="79" width="272" height="272" rx="23"/><rect x="158" y="110" width="272" height="272" rx="23"/></g>
+<g stroke="url(#white)" stroke-width="1" transform="translate(-275 -230)">
+<rect x="97" y="49" width="272" height="272" rx="23" opacity=".15"/>
+<rect x="112" y="64" width="272" height="272" rx="23" opacity=".35"/>
+<rect x="127" y="79" width="272" height="272" rx="23" opacity=".7"/>
+<rect x="142" y="94" width="272" height="272" rx="23" opacity=".95"/>
+<rect x="157" y="109" width="272" height="272" rx="23" opacity=".7"/>
+<rect x="172" y="124" width="272" height="272" rx="23" opacity=".3"/>
+</g>
+<g stroke="url(#spectrum)" transform="translate(-275 -230)"><rect x="142" y="94" width="272" height="272" rx="23" stroke-width="5" opacity=".6" filter="url(#glow)"/><rect x="142" y="94" width="272" height="272" rx="23" stroke-width="1.7"/><path d="M127 188V102a23 23 0 0 1 23-23h104M315 381h91a23 23 0 0 0 23-23v-97" stroke-width="1.4" opacity=".75"/></g>
+</g>
+<g fill="#737373"><path d="M73 316h8v1h-8zM76.5 312.5h1v8h-1z"/><path d="M472 131h8v1h-8zM475.5 127.5h1v8h-1z"/></g>
+</svg>
