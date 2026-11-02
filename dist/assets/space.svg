@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="460" viewBox="0 0 460 460" fill="none">
+<g stroke="#000" stroke-dasharray="3 5"><path d="M30 30h400v360H30Z"/><path d="M230 30v360M30 210h400"/></g>
+<g stroke="#555" stroke-width="1"><path d="M26 46h8M30 42v8M426 46h8M430 42v8M26 374h8M30 370v8M426 374h8M430 370v8"/></g><g fill="#707070" font-family="monospace" font-size="8" letter-spacing="1"><text x="48" y="61">SCHEMATIC / NOT TO SCALE</text><text x="368" y="61">X / Y</text></g><g stroke="#4d4d4d" stroke-dasharray="3 5" stroke-width="1"><path d="m62 295 167-97 168 97-168 97Z"/><path d="M229 70v322M62 295l167-97 168 97"/></g>
+<g transform="translate(229 192)" stroke="#7089ba" stroke-width="1.1" stroke-linejoin="round">
+<path d="m0-94 105 61V91L0 152-105 91V-33ZM-105-33 0 28l105-61M0 28v124"/>
+<path d="m0-65 80 46V75L0 121-80 75v-94ZM-80-19 0 27l80-46M0 27v94" opacity=".68"/>
+<path d="m0-36 55 32v65L0 93-55 61V-4ZM-55-4 0 28l55-32M0 28v65" opacity=".45"/>
+<path d="M0-94V28M-105 91 0 28l105 63" stroke-dasharray="4 5" opacity=".4"/>
+</g><circle cx="229" cy="98" r="2.5" fill="#7089ba"/><circle cx="334" cy="159" r="2.5" fill="#7089ba"/><circle cx="124" cy="159" r="2.5" fill="#7089ba"/><circle cx="229" cy="344" r="2.5" fill="#7089ba"/><g fill="#777" font-family="monospace" font-size="8" letter-spacing="1"><text x="66" y="116">FRAME / 001</text><text x="285" y="356">SPACE TO GROW.</text></g></svg>
